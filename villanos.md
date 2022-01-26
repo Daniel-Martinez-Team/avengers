@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Red skull
-* Dr. Martinez
+* Capitán América
